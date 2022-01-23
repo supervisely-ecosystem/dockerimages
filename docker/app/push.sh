@@ -1,0 +1,1 @@
+docker push supervisely/app:6.5.0
